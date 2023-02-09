@@ -17,10 +17,11 @@
   },
   "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+
   },
   "devDependencies": {
-    "body-parser": "^1.19.0",
     "nodemon": "^2.0.20"
   }
 }
